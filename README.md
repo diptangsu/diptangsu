@@ -7,15 +7,14 @@
 
 ### Languages & Frameworks:
 <code><img src="https://img.icons8.com/ios-filled/50/000000/programming.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/python.png"/></code>
+<code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/python.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/flask.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/django.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/sanic.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/sqlalchemy.jpg"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/postgresql.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/mysql.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/sql.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
+<code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/java.png"/></code>
 
 
 
