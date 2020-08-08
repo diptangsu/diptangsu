@@ -7,6 +7,7 @@
 
 ### <img src="https://img.icons8.com/ios-filled/50/000000/programming.png"/> Languages & Frameworks:
 <code><img src="https://img.icons8.com/color/48/000000/python.png"/></code>
+<code><img src="../src/flask.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/django.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/sql.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
