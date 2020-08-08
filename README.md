@@ -10,6 +10,7 @@
 <code><img src="https://img.icons8.com/color/48/000000/python.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/flask.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/django.png"/></code>
+<code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/sanic.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/sqlalchemy.jpg"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/postgresql.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/mysql.png"/></code>
