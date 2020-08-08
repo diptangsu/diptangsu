@@ -11,6 +11,8 @@
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/flask.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/django.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/sanic.png"/></code>
+<code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/javascript.png"/></code>
+<code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/git.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/sqlalchemy.jpg"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/postgresql.png"/></code>
 <code><img height=30 src="https://github.com/diptangsu/diptangsu/blob/master/src/mysql.png"/></code>
